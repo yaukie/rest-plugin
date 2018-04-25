@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f3ddea8-c163-4006-b4d1-cc7c0258142c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rest_plugin_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rest_plugin_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_8_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_core_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_soap_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_jaxb_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxrs_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxws_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_simple_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_client_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_security_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_addr_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_policy_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_security_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_wsdl_3_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_javamail_1_4_spec_1_7_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_neethi_neethi_3_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_santuario_xmlsec_2_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wss4j_wss4j_bindings_2_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wss4j_wss4j_policy_2_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wss4j_wss4j_ws_security_common_2_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wss4j_wss4j_ws_security_dom_2_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wss4j_wss4j_ws_security_policy_stax_2_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_wss4j_wss4j_ws_security_stax_2_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jasypt_jasypt_1_9_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_opensaml_2_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_openws_1_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opensaml_xmltooling_1_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rest-plugin.iml" />
+      <change beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/org/yaukie/Test.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/org/yaukie/entity/Customer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/org/yaukie/impl/CustomerServiceImpl.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/org/yaukie/impl/SoapServiceImpl.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/org/yaukie/inter/CustomerService.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/org/yaukie/inter/SoapService.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/org/yaukie/util/JsonUtil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-client.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-rest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-soap.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yaukie/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yaukie/entity/Customer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yaukie/impl/CustomerServiceImpl$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yaukie/impl/CustomerServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yaukie/impl/SoapServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yaukie/inter/CustomerService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yaukie/inter/SoapService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/yaukie/util/JsonUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/resources/spring-client.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/resources/spring-rest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/resources/spring-soap.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/resources/spring.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-client.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-rest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-soap.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring.xml" afterPath="$PROJECT_DIR$/target/classes/spring.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/log4j.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/jsp/hello.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/jsp/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/static/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/static/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/static/handlebars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/static/handlebars.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/webapp/static/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur.war" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/org/yaukie/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/org/yaukie/entity/Customer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/org/yaukie/impl/CustomerServiceImpl$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/org/yaukie/impl/CustomerServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/org/yaukie/impl/SoapServiceImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/org/yaukie/inter/CustomerService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/org/yaukie/inter/SoapService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/org/yaukie/util/JsonUtil.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/resources/spring-client.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/resources/spring-rest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/resources/spring-soap.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/resources/spring.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/spring-client.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/spring-rest.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/spring-soap.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/spring.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/webapp/WEB-INF/log4j.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/webapp/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/webapp/jsp/hello.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/webapp/jsp/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/webapp/static/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/webapp/static/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/webapp/static/handlebars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/webapp/static/handlebars.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/classes/webapp/static/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/asm-5.0.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-core-3.0.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-bindings-soap-3.1.10.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-bindings-xml-3.1.10.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-databinding-jaxb-3.1.10.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-frontend-jaxrs-3.0.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-frontend-jaxws-3.1.10.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-frontend-simple-3.1.10.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-rs-client-3.0.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-rs-extension-providers-3.0.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-transports-http-3.0.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-ws-addr-3.1.10.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-ws-policy-3.1.10.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/cxf-rt-wsdl-3.1.10.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jackson-annotations-2.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jackson-core-2.4.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jackson-databind-2.4.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jackson-jaxrs-base-2.4.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jackson-jaxrs-json-provider-2.4.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jackson-module-jaxb-annotations-2.4.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/javax.annotation-api-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/javax.ws.rs-api-2.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/javax.xml.soap-api-1.3.5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jaxb-api-2.2.9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jaxb-core-2.2.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jaxb-impl-2.2.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jaxws-api-2.2.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/jsr181-api-1.0-MR1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/neethi-3.0.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/spring-aop-4.0.6.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/spring-beans-4.0.6.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/spring-context-4.0.6.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/spring-core-4.0.6.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/spring-expression-4.0.6.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/spring-web-4.0.6.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/stax2-api-3.1.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/woodstox-core-asl-4.3.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/wsdl4j-1.6.3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/xml-resolver-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/lib/xmlschema-core-2.1.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/log4j.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/WEB-INF/web.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/jsp/hello.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/jsp/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/static/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/static/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/static/handlebars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/static/handlebars.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/inspur/static/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rest-plugin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../soap-plugin/soap-plugin" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f3ddea8-c163-4006-b4d1-cc7c0258142c" name="Default" comment="" />
+      <created>1524559150831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524559150831</updated>
+      <workItem from="1524559159721" duration="647000" />
+      <workItem from="1524561725006" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="707000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

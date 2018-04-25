@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:cxf="http://cxf.apache.org/core"
+       xmlns:jaxws="http://cxf.apache.org/jaxws"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+       http://cxf.apache.org/core
+       http://cxf.apache.org/shemas/core.xsd
+       http://cxf.apache.org/jaxws
+       http://cxf.apache.org/schemas/jaxws.xsd">
+            <!-- 基于cxf提供的cxf-security 来对soap的ws服务进行验证 ,客户端端设置-->
+     <bean id="wss4jOutIterceptor" class="org.apache.cxf.ws.security.wss4j.WSS4JOutInterceptor">
+     	<constructor-arg>
+     		<map>
+     			 <entry key="action" value="UsernameToken"/>
+     			 <entry key="user" value="client"/>
+     			 <entry key="passwordType" value="PasswordDigest"/>
+     			 <entry key="passwordCallbackRef" value-ref="clientPasswordCallback"/>
+     		</map>
+     	</constructor-arg>
+     </bean>
+     <bean id="clientPasswordCallback" class="org.yaukie.wssecurity.ClientPasswordCallback"></bean>
+ <!-- 配置soap类型请求  方式一：jaxws方式-->
+ <jaxws:client id="helloService" 
+ 	serviceClass="org.yaukie.inter.HelloService"
+ 	address="http://localhost:8088/cxf/ws/soap/hello">
+ 	<jaxws:outInterceptors>
+ 		<ref bean="wss4jOutIterceptor"/>
+ 	</jaxws:outInterceptors>
+ 	</jaxws:client>
+ </beans>

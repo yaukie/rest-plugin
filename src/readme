@@ -1,0 +1,3 @@
+说明：
+使用cxf+spring发布ws(基于soap协议)服务
+使用cxf内置jetty发布ws服务案例 请下载源码:
